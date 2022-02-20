@@ -1,0 +1,5 @@
+﻿  18_2_2022_Ricardo.cpp
+C:\Users\patom\OneDrive\Escritorio\programacion2\18_2_2022_Ricardo\18_2_2022_Ricardo\18_2_2022_Ricardo.cpp(18,13): warning C4244: '=': conversión de 'double' a 'int'; posible pérdida de datos
+C:\Users\patom\OneDrive\Escritorio\programacion2\18_2_2022_Ricardo\18_2_2022_Ricardo\18_2_2022_Ricardo.cpp(10,17): warning C4101: 'm2': variable local sin referencia
+C:\Users\patom\OneDrive\Escritorio\programacion2\18_2_2022_Ricardo\18_2_2022_Ricardo\18_2_2022_Ricardo.cpp(10,14): warning C4101: 'n1': variable local sin referencia
+  18_2_2022_Ricardo.vcxproj -> C:\Users\patom\OneDrive\Escritorio\programacion2\18_2_2022_Ricardo\Debug\18_2_2022_Ricardo.exe
